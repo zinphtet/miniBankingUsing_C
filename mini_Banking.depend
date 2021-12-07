@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625381856 source:d:\programming\c\tutorial\mini_banking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
